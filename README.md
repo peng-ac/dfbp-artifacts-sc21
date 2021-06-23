@@ -64,7 +64,6 @@ all jobs used are stored in folder *abci.jobs*
       set.Bumblebee.0256.sh
       set.Bumblebee.0512.sh
       set.Bumblebee.1024.sh
-      set.Bumblebee.2048.sh
       set.coffeebean_1x.0016.sh
       set.coffeebean_1x.0032.sh
       set.coffeebean_1x.0064.sh
@@ -82,7 +81,6 @@ all jobs used are stored in folder *abci.jobs*
       set.coffeebean_2x.0256.sh
       set.coffeebean_2x.0512.sh
       set.coffeebean_2x.1024.sh
-      set.coffeebean_2x.2048.sh
       set.tomobank_29.0004.sh
       set.tomobank_29.0008.sh
       set.tomobank_29.0016.sh
